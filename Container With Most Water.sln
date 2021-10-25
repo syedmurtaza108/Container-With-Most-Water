@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container With Most Water", "Container With Most Water\Container With Most Water.csproj", "{F282AD83-34EE-46BC-80C1-CCA83DEBB47F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F282AD83-34EE-46BC-80C1-CCA83DEBB47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F282AD83-34EE-46BC-80C1-CCA83DEBB47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F282AD83-34EE-46BC-80C1-CCA83DEBB47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F282AD83-34EE-46BC-80C1-CCA83DEBB47F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B20459F5-1206-4D30-9D68-949FDDD91092}
+	EndGlobalSection
+EndGlobal
